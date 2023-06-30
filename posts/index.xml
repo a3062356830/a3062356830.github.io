@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 11:00:49 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Fri, 30 Jun 2023 11:00:49 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            #这是我的第一篇博客内容 其间过程中出现了忘记配置环境变量拿hugo程序一直复制粘贴的情况哈哈哈哈，还有就是博客出现中文乱码，研究了好久都没整明白，后来通过csdn和大佬解决 GBK和UTF-8都是支持中文的，但浏览器使用的解码方式大多都是GBK模式的。 因此我们使用UTF-8来编码，最终浏览器使用GBK来解码，这就产生了乱码！改下文件编码为UTF-8即可
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
